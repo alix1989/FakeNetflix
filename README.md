@@ -1,3 +1,19 @@
+Funzionalità utilizzate: bootstrap.
+Il progetto è stato effettuato come esercitazione settimanale individuale durante il corso di Epicode, è un attuale work in progress per  aggiungere funzionalità. 
+E' una SPA che utilizza un fake server JSON e delle fakeAPI. 
+
+Screenshot: 
+homepage: https://i.postimg.cc/2yRsTX24/image.png
+pagina di registrazione: https://i.postimg.cc/qq4mNf1Z/image.png
+pagina di selezione dei film: https://i.postimg.cc/rsDDCsZd/image.png*
+    * i cuoricini definiscono i film preferiti, restano memorizzati nel localhost.
+pagina di profilo: https://i.postimg.cc/D0QwcGdw/image.png
+
+Il progetto è stato deployato su firebase ma purtroppo dà dei problemi alla registrazione ed al login.
+https://fake-netflix-49a7c.web.app/
+
+Per informazioni: vigo.alice@gmail.com
+
 # Movies
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
